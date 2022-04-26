@@ -1,6 +1,6 @@
 # Laravel Stripe Integration
 Simple stripe integration with laravel framework
-![LaravelStripe](https://abdelrahmanetry.info/assets/github/sl.png)
+![LaravelStripe](https://abdelrahmanetry.info/assets/github/stripe.png)
 
 ## Requirements
 - Create a development stripe account from this link : https://stripe.com/
