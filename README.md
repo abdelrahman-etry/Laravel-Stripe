@@ -1,6 +1,6 @@
 # Laravel Stripe Integration
 Simple stripe integration with laravel framework
-![LaravelPaypal](https://abdelrahmanetry.info/public/media/09102023175021-1635252842987.png)
+![LaravelStripe](https://abdelrahmanetry.info/public/media/09102023191242-1635252842987.jpg)
 
 ## Requirements
 - Create a development stripe account from this link : https://stripe.com/
