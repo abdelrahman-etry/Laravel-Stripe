@@ -243,4 +243,4 @@ You can clone this repository for a simple stripe integration sample or you can 
 - Year: any future Year
 - CVV: 123
 
-![Abdelrahman Etry](https://abdelrahmanetry.info/assets/github/logo.png)
+![Abdelrahman Etry](https://abdelrahmanetry.info/media/27082023145335-ae-w.png)
